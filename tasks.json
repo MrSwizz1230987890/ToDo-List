@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "text": "проснуться",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "text": "покушац",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "text": "потренироваться",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "text": "пообедать",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "text": "лечь спать",
+    "completed": false,
+    "zone": "personal",
+    "createdAt": "2026-05-31T17:58:50.007Z"
+  }
+]
